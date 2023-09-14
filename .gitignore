@@ -1,0 +1,11 @@
+*.pdb
+*.deps.json
+*.dll
+*.runtimeconfig.json
+*.cache
+*.g.cs
+*.csproj.nuget.*
+project.assets.json
+obj/
+bin/
+
