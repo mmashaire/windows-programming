@@ -8,4 +8,9 @@
 project.assets.json
 obj/
 bin/
+.DS_Store
+.vs/
+*.suo
+.vscode/
+*.sqlite
 
